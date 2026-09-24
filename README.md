@@ -8,6 +8,23 @@ A modern car hire and booking platform with a full fleet showcase, real-time ava
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
+## 🖼️ Screenshots
+
+### 🏠 Homepage
+![Homepage](carhire/screenshots/home.png)
+
+### 🚗 Fleet / Vehicle Details
+![Fleet](carhire/screenshots/about.png)
+
+### 📅 Booking
+![Booking](carhire/screenshots/book.png)
+
+### ❓ FAQ
+![FAQ](carhire/screenshots/faq.png)
+
+### 📞 Contact
+![Contact](carhire/screenshots/contact.png)
+---
 
 ## 📖 Table of Contents
 
@@ -90,22 +107,6 @@ The project is designed to be deployed on any shared hosting environment (tested
 
 ---
 
-## 🖼️ Screenshots
 
-### 🏠 Homepage
-![Homepage](carhire/screenshots/home.png)
-
-### 🚗 Fleet / Vehicle Details
-![Fleet](carhire/screenshots/about.png)
-
-### 📅 Booking
-![Booking](carhire/screenshots/book.png)
-
-### ❓ FAQ
-![FAQ](carhire/screenshots/faq.png)
-
-### 📞 Contact
-![Contact](carhire/screenshots/contact.png)
----
 
 ## 📁 Project Structure
