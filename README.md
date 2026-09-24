@@ -92,28 +92,20 @@ The project is designed to be deployed on any shared hosting environment (tested
 
 ## 🖼️ Screenshots
 
-> Add screenshots to a `screenshots/` folder after deployment.
-> Suggested files: `home.png`, `fleet.png`, `car-detail.png`, `booking.png`, `admin.png`, `faq.png`, `contact.png`
-
-<!-- Uncomment once screenshots are uploaded:
-
 ### 🏠 Homepage
-![Homepage](screenshots/home.png)
+![Homepage](carhire/screenshots/home.png)
 
-### 🚗 Fleet
-![Fleet](screenshots/fleet.png)
+### 🚗 Fleet / Vehicle Details
+![Fleet](carhire/screenshots/about.png)
 
-### 🚙 Vehicle Details
-![Vehicle Details](screenshots/car-detail.png)
+### 📅 Booking
+![Booking](carhire/screenshots/book.png)
 
-### 📅 Booking Flow
-![Booking](screenshots/booking.png)
+### ❓ FAQ
+![FAQ](carhire/screenshots/faq.png)
 
-### 🛠️ Admin Dashboard
-![Admin](screenshots/admin.png)
-
--->
-
+### 📞 Contact
+![Contact](carhire/screenshots/contact.png)
 ---
 
 ## 📁 Project Structure
